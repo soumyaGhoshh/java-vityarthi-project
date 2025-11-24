@@ -1,0 +1,7 @@
+# ignoring the compiled class files
+*.class
+.DS_Store
+/.idea/
+*.iml
+*.log
+tmp/
