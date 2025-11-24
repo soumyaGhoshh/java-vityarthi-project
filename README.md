@@ -142,7 +142,7 @@ Choose an option:
 4. Expected Output: Display of all registered students with their details
  
  **Screenshot (example):**
-![Test Case 1](bankmanagement/screenshots/test-case-1.png)
+![Test Case 1](screenshots/test-case-1.png)
 
 ### Test Case 2: View All Accounts
 1. Run the application
@@ -151,7 +151,7 @@ Choose an option:
 4. Expected Output: Complete account listing with account information
 
 **Screenshot (example):**
-![Test Case 2](bankmanagement/screenshots/test-case-2.png)
+![Test Case 2](screenshots/test-case-2.png)
 
 ### Test Case 3: Deposit Money
 1. Run the application
@@ -162,7 +162,7 @@ Choose an option:
 6. Expected Output: Success message with new balance
 
 **Screenshot (example):**
-![Test Case 3](bankmanagement/screenshots/test-case-3.png)
+![Test Case 3](screenshots/test-case-3.png)
 
 ### Test Case 4: Withdraw Money
 1. Run the application
@@ -173,7 +173,7 @@ Choose an option:
 6. Expected Output: Success message with updated balance
 
 **Screenshot (example):**
-![Test Case 4](bankmanagement/screenshots/test-case-4.png)
+![Test Case 4](screenshots/test-case-4.png)
 
 ### Test Case 5: Transfer Between Accounts
 1. Run the application
@@ -185,7 +185,7 @@ Choose an option:
 7. Expected Output: Success message with both accounts updated
 
 **Screenshot (example):**
-![Test Case 5](bankmanagement/screenshots/test-case-5.png)
+![Test Case 5](screenshots/test-case-5.png)
 
 ### Test Case 6: View Transaction History
 1. Run the application
@@ -195,7 +195,7 @@ Choose an option:
 5. Expected Output: Complete transaction history with timestamps
 
 **Screenshot (example):**
-![Test Case 6](bankmanagement/screenshots/test-case-6.png)
+![Test Case 6](screenshots/test-case-6.png)
 
 ### Test Case 7: Add New Student
 1. Run the application
@@ -204,7 +204,7 @@ Choose an option:
 4. Expected Output: Success confirmation message
 
 **Screenshot (example):**
-![Test Case 7](bankmanagement/screenshots/test-case-7.png)
+![Test Case 7](screenshots/test-case-7.png)
 
 ### Test Case 8: Open New Account
 1. Run the application
@@ -216,7 +216,7 @@ Choose an option:
 7. Expected Output: Account creation confirmation
 
 **Screenshot (example):**
-![Test Case 8](bankmanagement/screenshots/test-case-8.png)
+![Test Case 8](screenshots/test-case-8.png)
 
 ### Test Case 9: View Bank Summary
 1. Run the application
@@ -225,7 +225,7 @@ Choose an option:
 4. Expected Output: Summary statistics
 
 **Screenshot (example):**
-![Test Case 9](bankmanagement/screenshots/test-case-9.png)
+![Test Case 9](screenshots/test-case-9.png)
 
 ### Test Case 10: Exit Application
 1. Run the application
@@ -233,7 +233,7 @@ Choose an option:
 3. Expected Output: Farewell message and application closure
 
 **Screenshot (example):**
-![Test Case 10](bankmanagement/screenshots/test-case-10.png)
+![Test Case 10](screenshots/test-case-10.png)
 
 ---
 
