@@ -1,4 +1,3 @@
-cat > /Users/soumyaghosh/Academics/interimsem/java/programs/vityarthi/bankmanagement/README.md << 'EOFREADME'
 # VIT Bhopal Student Bank Management System
 
 ## Project Title
